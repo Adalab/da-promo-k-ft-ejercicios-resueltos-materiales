@@ -125,7 +125,7 @@ SELECT product_name AS nombre, product_line AS cat, quantity_in_stock AS cant,
         LIMIT 15
         OFFSET 3;
 
--- EJERCICIOS modulo-2-leccion-07-consultas-basicas
+-- EJERCICIOS modulo-2-leccion-05-consultas-basicas
 
 USE tienda;
  
